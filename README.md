@@ -1,4 +1,4 @@
 SQL-for-Smarties
 ================
 
-Place to share interesting SQL solutions
+Place to share interesting and unusual SQL solutions
